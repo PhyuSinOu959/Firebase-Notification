@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487061493640",
+    "project_id": "notification-app-19d6f",
+    "storage_bucket": "notification-app-19d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487061493640:android:8e37d7449c031f95cd0c3d",
+        "android_client_info": {
+          "package_name": "com.notificationservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNROr6uDM2csu_aK9HN3bHdJuF8Cag7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487061493640:android:705acd7dbe9f5313cd0c3d",
+        "android_client_info": {
+          "package_name": "mm.com.mytel.notification_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNROr6uDM2csu_aK9HN3bHdJuF8Cag7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
